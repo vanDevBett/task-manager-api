@@ -20,3 +20,8 @@ app.include_router(tasks_router, prefix="/tasks", tags=["tasks"])
 @app.get("/")
 def root():
     return {"message": "Task Manager API is running"}
+
+
+@app.get("/health")
+def health():
+    return {"status": "ok"}
