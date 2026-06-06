@@ -2,6 +2,12 @@
 
 REST API for task management built with FastAPI and PostgreSQL.
 
+## Live Demo
+
+API: https://task-manager-638gdg3wv-vandevbetts-projects.vercel.app
+
+Docs: https://task-manager-638gdg3wv-vandevbetts-projects.vercel.app/docs
+
 ## Tech Stack
 
 - **FastAPI** — Python web framework
