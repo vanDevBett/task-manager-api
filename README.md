@@ -8,6 +8,8 @@ API: https://task-manager-638gdg3wv-vandevbetts-projects.vercel.app
 
 Docs: https://task-manager-638gdg3wv-vandevbetts-projects.vercel.app/docs
 
+> **Note:** First request may take a few seconds to respond.
+
 ## Tech Stack
 
 - **FastAPI** — Python web framework
