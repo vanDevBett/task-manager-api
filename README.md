@@ -2,6 +2,12 @@
 
 REST API for task management built with FastAPI and PostgreSQL.
 
+## Live Demo
+
+API available at: https://task-manager-api-production-1862.up.railway.app
+
+Interactive documentation: https://task-manager-api-production-1862.up.railway.app/docs
+
 ## Tech Stack
 
 - **FastAPI** — Python web framework
